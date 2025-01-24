@@ -1,0 +1,39 @@
+@media only screen and (max-width: 576px){
+
+    .site-header-hero {
+        background-image: url(../images/mobile/image-header.jpg);
+    }
+    .site-hero  {
+        row-gap: 52px;
+    }
+    .site-title {
+        font-size: 40px;
+        text-align: center;
+    }
+    .navbar-toggler {
+        border: unset;
+        box-shadow: unset;
+    }
+    .navbar-toggler-icon {
+        background-image: url(../images/icon-hamburger.svg);
+    }
+    .menu-mobile {
+        background-color: white;
+        row-gap: 32px;
+        margin-top: 50px;
+       
+
+    }
+    .header-menu {
+        row-gap: 32px;
+        padding-top: 39px;
+        padding-bottom: 39px;
+    }
+    .header__nav-link {
+        color: #808397;
+      
+    }
+    .contact-us {
+        background-color: #FBD600;
+    }
+}
